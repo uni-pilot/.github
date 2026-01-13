@@ -1,4 +1,4 @@
-# 🎓 UNIverse — Your Personal University Planner
+# 🎓 UNIverse 🪐 — Your Personal University Planner
 
 ## Wichtige Hinweise für die Entwicklung
 
